@@ -1,39 +1,40 @@
 # PyTorch-Tutorial
 Repo to learn PyTorch 
 ---
+---
 ### [PYtorch_Intro](https://github.com/Lplenka/PyTorch-Tutorial/blob/master/Pytorch_Intro.ipynb)
 * [Pytorch Introduction](#Pytorch-Introduction)
     * [PyTorch provides two high-level features](#PyTorch-provides-two-high-level-features)
 * [Environment Configuration](#Environment-Configuration)
     * [Install pytorch on Windows Snapshop Tutorial](https://www.superdatascience.com/pytorch/)
-* [**Section : 1. Pytorch Basic Foundation**](#Section-1-:-Pytorch-Basic-Foundation)
-    * [Tensor](#Tensor)
-        * [Construct a 5x3 matrix uninitialized](#Construct-a-5x3-matrix-uninitialized)
-        * [Convert to numpy](#Convert-to-numpy)
-        * [Size of tensor](#Size-of-tensor)
-        * [From Numpy to tensor](#From-Numpy-to-tensor)
-    * [Tensor Operation](#Tensor-Operation)
-        * [Random similar to numpy](#Random-similar-to-numpy)
-        * [Construct a matrix filled zeros and of dtype long](#Construct-a-matrix-filled-zeros-and-of-dtype-long)
-        * [Construct a tensor directly from data](#Construct-a-tensor-directly-from-data)
-        * [Create tensor based on existing tensor](#Create-tensor-based-on-existing-tensor)
-        * [Basic Tensor Operation](#Basic-Tensor-Operation)
-    * [Variable](#Variable)
-    * [Activation Function](#Activation-Function)
-        * [Generate Fake Data](#Generate-Fake-Data)
-        * [Popular Activation Function](#Popular-Activation-Function)
-        * [Activation Function plot from data](#Activation-Function-plot-from-data)
+* [**Section : 1. Pytorch Basic Foundation**]
+    * Tensor
+        * Construct a 5x3 matrix uninitialized
+        * Convert to numpy
+        * Size of tensor
+        * From Numpy to tensor
+    * Tensor Operation
+        * Random similar to numpy
+        * Construct a matrix filled zeros and of dtype long
+        * Construct a tensor directly from data
+        * Create tensor based on existing tensor
+        * Basic Tensor Operation
+    * Variable
+    * Activation Function
+        * Generate Fake Data
+        * Popular Activation Function
+        * Activation Function plot from data
 ---
 ## [Neural Networks](https://github.com/Lplenka/PyTorch-Tutorial/blob/master/Neural%20Networks.ipynb)
-* [**Section : 1. Neural Network**](#Section-:-2.-Neural-Network)
-     * [Linear Regression](#Linear-Regression)
-     * [Neural Network for Regression](#Neural-Network-for-Regression)
-     * [Neural Network for Classification ](#Neural-Network-for-Classification )
-     * [Faster way to build models](#Faster-way-to-build-models)
-     * [Save and Reload Model](#Save-and-Reload-Model)
-     * [Train on Batch](#Train-on-batch)
-     * [Optimizers](#Optimizers)
+* [**Section : 1. Neural Network**]
+     * Linear Regression
+     * Neural Network for Regression
+     * Neural Network for Classification
+     * Faster way to build models
+     * Save and Reload Model
+     * Train on Batch
+     * Optimizers
  
-* [**Section : 2. Advance Neural Network**](#Section-:-3.-Advance-Neural-Network)
-    * [CNN](#CNN)
+* [**Section : 2. Advance Neural Network**]
+    * CNN
     * RNN Coming Soon...
